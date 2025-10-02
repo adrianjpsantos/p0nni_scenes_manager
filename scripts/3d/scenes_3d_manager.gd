@@ -1,5 +1,5 @@
 extends Node
-class_name ScenesManager
+class_name Scenes3DManager
 
 signal exit_scene
 signal enter_scene(scene_name:String)
